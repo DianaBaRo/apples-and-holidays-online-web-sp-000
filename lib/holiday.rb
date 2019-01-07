@@ -94,8 +94,8 @@ def all_holidays_with_bbq(holiday_hash)
         result = []
         result << attribute
       end
-      result
     end
   end
+  result
 
 end
